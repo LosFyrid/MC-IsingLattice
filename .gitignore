@@ -1,0 +1,9 @@
+# 忽略输出文件夹
+output/
+output - backup1/
+
+# 忽略Python缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
